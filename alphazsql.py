@@ -21,6 +21,7 @@ print("""\x1b[01;31m
       
 ==================
 ALPHA-Z YARI OTOMATİK SQLMap PROJESİ
+GoldPack'ın Katkılarıyla.
 Kodlayıcı Hiç Bir Yasal Sorumluluk Kabul Etmez...
 ===================
 """)
